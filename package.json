@@ -1,0 +1,22 @@
+{
+  "name": "ton-nominator-pool-historic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ton-nominator-pool-historic.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amihaz/ton-nominator-pool-historic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amihaz/ton-nominator-pool-historic/issues"
+  },
+  "homepage": "https://github.com/amihaz/ton-nominator-pool-historic#readme",
+  "dependencies": {
+    "ton": "^13.9.0"
+  }
+}
